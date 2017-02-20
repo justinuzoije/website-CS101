@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+a {
+  color: Yellow;
+}
+
+p, h1, li {
+  color: Silver;
+}
+
+body {
+  background-image: url("dark_embroidery.png")
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+}
